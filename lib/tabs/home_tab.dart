@@ -8,7 +8,7 @@ class HomeTab extends StatelessWidget {
             gradient: LinearGradient(colors: [
               Color.fromARGB(255, 211, 118, 130),
               Color.fromARGB(255, 253, 181, 168)
-            ], begin: Alignment.topLeft, end: Alignment.bottomRight),
+            ], begin: Alignment.topLeft, end: Alignment.bottomRight), // Fazendo fundo degrade do app 
           ),
         );
 
@@ -25,7 +25,7 @@ class HomeTab extends StatelessWidget {
               flexibleSpace: FlexibleSpaceBar(
                 title: const Text("Novidades"),
                 centerTitle: true,
-                ),
+                ), // App bar transparente que some ao deslizar a tela
             )
           ],
         ),
