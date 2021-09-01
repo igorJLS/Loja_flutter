@@ -1,6 +1,6 @@
 # lojaflutter
 
-A new Flutter project.
+Projeto em Flutter do Curso de Criaçao de Apps .
 
 ## Getting Started
 
